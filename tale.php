@@ -28,5 +28,5 @@
 </script>
 <div class="bubble">Trykk på "Tale"- knappen og forklar hvordan du føler deg.</div>
 
-<div id="taleknapp" class="knapp" class="talefunksjon">Tale</div>
+<div id="taleknapp" class="knapp">Tale</div>
 
